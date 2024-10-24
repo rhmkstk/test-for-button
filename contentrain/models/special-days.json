@@ -76,5 +76,23 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "Theme",
+    "fieldId": "theme",
+    "modelId": "special-days",
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "sticky-button-themes"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "relation"
   }
 ]
