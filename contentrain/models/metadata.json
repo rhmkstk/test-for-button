@@ -134,5 +134,13 @@
     "type": "JSON",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "Special days",
+    "modelId": "special-days",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
