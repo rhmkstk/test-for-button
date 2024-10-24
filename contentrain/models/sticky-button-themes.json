@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "sticky-button-themes"
+  },
+  {
+    "name": "Background Color",
+    "fieldId": "background-color",
+    "modelId": "sticky-button-themes",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
