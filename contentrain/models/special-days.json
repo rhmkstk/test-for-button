@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "special-days"
+  },
+  {
+    "name": "Date",
+    "fieldId": "date",
+    "modelId": "special-days",
+    "componentId": "date",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
