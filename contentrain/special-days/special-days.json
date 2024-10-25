@@ -8,5 +8,15 @@
     "theme": "ca6d0a7bfd04",
     "status": "draft",
     "scheduled": false
+  },
+  {
+    "ID": "a035b549d285",
+    "createdAt": "Fri Oct 25 2024 14:38:24 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Oct 25 2024 14:38:24 GMT+0300 (GMT+03:00)",
+    "date": "2024-10-26T11:38:00.000Z",
+    "name": "test gunu",
+    "theme": "ca6d0a7bfd04",
+    "status": "draft",
+    "scheduled": false
   }
 ]
